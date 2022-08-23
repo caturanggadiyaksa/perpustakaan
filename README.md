@@ -82,7 +82,7 @@
 <br>
 
 <h4>Keanggotaan</h4>
-<h6>etiap anggota berhak mendapatkan dan memanfaatkan fasilitas layanan jasa perpustakaan dan informasi berupa </h6>
+<h6>Setiap anggota berhak mendapatkan dan memanfaatkan fasilitas layanan jasa perpustakaan dan informasi berupa </h6>
     <ul>
         <li>Sarana penelusuran (Kartu katalog maupun OPAC).</li>
         <li>Sarana ruang baca (buku, majalah, surat kabar, AV dan koleksi langka).</li>
