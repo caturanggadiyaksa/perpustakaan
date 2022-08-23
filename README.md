@@ -17,16 +17,15 @@
 
 ## Fitur
 
-<h2>Koleksi Digital</h2>
+<h4>Koleksi Digital</h4>
 <br>
 <br>
-<h2>Layanan</h2>
+<h4>Layanan</h4>
 <br>
 <br>
-<h2>Koleksi DIgital</h2>
+<h4>Koleksi DIgital</h4>
 <br>
 <br>
-<h2>Keanggotaan</h2>
+<h4>Keanggotaan</h4>
 
 
-## Perancangan Data
