@@ -18,6 +18,20 @@
 ## Fitur
 
 <h4>Koleksi Digital</h4>
+<h6>Koleksi</h6>
+    <br>
+    <p> Naskah Kuno</p>
+    <ul>
+        <li>Buku Langka</li>
+        <li>Peta</li>
+        <li>Foto, Gambar & Lukisan</li>
+        <li>Majalah & Surat Kabar Langka</li>
+        <li>Repositori Studi Kebijakan Indonesia</li>
+    </ul>
+
+    <h6>Kamus</h6>
+    <br>
+    <p>Istilah Komputer</p>
 <br>
 <br>
 <h4>Layanan</h4>
