@@ -41,9 +41,44 @@
         <li>Open Journal Perpusnas</li>
     </ul>        
 <br>
-<br>
-<br>
+
 <h4>Layanan</h4>
+<h6>Direktori</h6>
+    <br>
+    <ul>
+        <li>Hari Penting</li>
+        <li>Kantor Berita</li>
+        <li>Kedutaan Besar dan Konsulat Asing</li>
+        <li>Lembaga Kesehatan</li>
+        <li>Lembaga Pemerintahan</li>
+        <li>Nomor Telepon Penting</li>
+        <li>Perpustakaan Online</li>
+    </ul>
+    <br>
+    <h6>Umum</h6>
+    <br>
+    <ul>
+        <li> e-Resources</li>
+        <li>Virtual Tour Gedung Layanan</li>
+        <li>Sistem Informasi Pelaporan Pelanggaran</li>
+        <li>Agenda Kegiatan Gedung Layanan</li>
+    </ul>
+    <br>
+    <h6>Penerbit dan Perpustakaan Lain</h6>
+    <br>
+    <ul>
+        <li>Layanan ISBN</li>
+        <li>Data Perpustakaan Seluruh Indonesia</li>
+        <li> Portal Informasi Serah Simpan KCKR</li>
+    </ul>
+    <br>
+    <h6>Katalog</h6>
+    <br>
+    <ul>
+        <li>Bibliografi Nasional Indonesia</li>
+        <li>Katalog Induk Nasional</li>
+        <li>Open Public Access Catalog (OPAC)</li>
+    </ul>
 <br>
 <br>
 <h4>Koleksi DIgital</h4>
