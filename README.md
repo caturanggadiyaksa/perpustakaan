@@ -1,11 +1,12 @@
 # Aplikasi Perpustakaan
 
-*Perpustakaan Bina Insani
+*Perpustakaan Nasional Indonesia
+ <a href="https://www.perpusnas.go.id/directory.php?lang=id&id=Perpustakaan%20Online">Perpustakaan Nasional Republik Indonesia</a>
 
 
 
 
-*Pustaka Ecampus atau yang biasa disebut Digital Pustaka Ecampus adalah sebuah tampilan panel yang dibuat dengan tujuan menampilkan koleksi perpustakaan secara digital yang mudah diakses, dimana pengguna dapat mencari dan membaca koleksi perpustakaan secara mudah dalam satu aplikasi.
+*Perpustakaan online adalah sebuah tampilan panel yang dibuat dengan tujuan menampilkan koleksi perpustakaan secara digital yang mudah diakses, dimana pengguna dapat mencari dan membaca koleksi perpustakaan secara mudah dalam satu aplikasi.
 
 
 
