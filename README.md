@@ -33,7 +33,13 @@
     <ul>
         <li>Istilah Komputer</li>
     </ul>
-            
+<h6>Majalah Online</h6>
+    <br>
+    <ul>
+        <li>Media Pustakawan</li>
+        <li>Warta</li>
+        <li>Open Journal Perpusnas</li>
+    </ul>        
 <br>
 <br>
 <br>
