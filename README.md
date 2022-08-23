@@ -17,7 +17,16 @@
 
 ## Fitur
 
-
+<h2>Koleksi Digital</h2>
+<br>
+<br>
+<h2>Layanan</h2>
+<br>
+<br>
+<h2>Koleksi DIgital</h2>
+<br>
+<br>
+<h2>Keanggotaan</h2>
 
 
 ## Perancangan Data
