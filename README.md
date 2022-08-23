@@ -29,9 +29,9 @@
         <li>Repositori Studi Kebijakan Indonesia</li>
     </ul>
 
-    <h6>Kamus</h6>
-    <br>
-    <p>Istilah Komputer</p>
+<h6>Kamus</h6>
+<br>
+<p>Istilah Komputer</p>
 <br>
 <br>
 <h4>Layanan</h4>
