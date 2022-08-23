@@ -80,10 +80,16 @@
         <li>Open Public Access Catalog (OPAC)</li>
     </ul>
 <br>
-<br>
-<h4>Koleksi DIgital</h4>
-<br>
-<br>
+
 <h4>Keanggotaan</h4>
+<h6>etiap anggota berhak mendapatkan dan memanfaatkan fasilitas layanan jasa perpustakaan dan informasi berupa </h6>
+    <ul>
+        <li>Sarana penelusuran (Kartu katalog maupun OPAC).</li>
+        <li>Sarana ruang baca (buku, majalah, surat kabar, AV dan koleksi langka).</li>
+        <li>Pemesanan koleksi sebanyak 3 (tiga) judul khusus untuk buka setiap kali permintaan.</li>
+        <li>Pembuatan reproduksi koleksi baik dalam bentuk foto kopi, rekaman, bentuk mikro maupun digital (untuk jasa ini dikenakan biaya sesuai dengan peraturan yang berlaku).</li>
+        <li>Mengikuti seleksi dan kompetisi dalam pemilihan pengunjung Perpustakaan Nasional RI terbaik. (Diselenggarakan untuk memperingati Hari Kunjung Perpustakaan dan Budaya Baca pada setiap tanggal 14 September).</li>
+        <li>Mengikuti bimbingan dan penyuluhan tentang Perpustakaan Nasional RI.</li>
+    </ul>
 
 
