@@ -30,8 +30,11 @@
     </ul>
 
 <h6>Kamus</h6>
+    <ul>
+        <li>Istilah Komputer</li>
+    </ul>
+            
 <br>
-<p>Istilah Komputer</p>
 <br>
 <br>
 <h4>Layanan</h4>
